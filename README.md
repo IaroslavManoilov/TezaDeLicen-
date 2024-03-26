@@ -1,2 +1,2 @@
-# TezaDeLicen-
+# TezaDeLicenta-
 Analiza studentilor exmatriculați de la UTM
